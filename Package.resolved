@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "beancountmodel",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:charwliu/BeanCountModel.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "99b3422884a3c1c7d553203d5a54b68a7de6d1b1"
+      }
+    }
+  ],
+  "version" : 2
+}
